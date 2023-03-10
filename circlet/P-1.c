@@ -1,7 +1,10 @@
+ /*   *   
+    *  *  
+   *    * 
+  *      **/   
 #include<stdio.h>
 
 int main(){
-
 
     int i,j,l=4,r=4;
     for(i=1;i<=4;i++)
@@ -17,7 +20,5 @@ int main(){
         r--;
         printf("\n");
     }
-
     return 0;
-
 }
